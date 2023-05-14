@@ -1,0 +1,59 @@
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\obj\Debug\net6.0-windows\DBFilter.csproj.AssemblyReference.cache
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\obj\Debug\net6.0-windows\DBFilter.Form1.resources
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\obj\Debug\net6.0-windows\DBFilter.csproj.GenerateResource.cache
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\obj\Debug\net6.0-windows\DBFilter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\obj\Debug\net6.0-windows\DBFilter.AssemblyInfoInputs.cache
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\obj\Debug\net6.0-windows\DBFilter.AssemblyInfo.cs
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\obj\Debug\net6.0-windows\DBFilter.csproj.CoreCompileInputs.cache
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\bin\Debug\net6.0-windows\LINQ for Entities.deps.json
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\bin\Debug\net6.0-windows\LINQ for Entities.runtimeconfig.json
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\bin\Debug\net6.0-windows\LINQ for Entities.exe
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\bin\Debug\net6.0-windows\DBFilter.exe
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\bin\Debug\net6.0-windows\DBFilter.deps.json
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\bin\Debug\net6.0-windows\DBFilter.runtimeconfig.json
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\bin\Debug\net6.0-windows\DBFilter.dll
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\bin\Debug\net6.0-windows\DBFilter.pdb
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\bin\Debug\net6.0-windows\LINQ for Entities.dll
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\bin\Debug\net6.0-windows\LINQ for Entities.pdb
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\obj\Debug\net6.0-windows\DBFilter.csproj.CopyComplete
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\obj\Debug\net6.0-windows\DBFilter.dll
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\obj\Debug\net6.0-windows\refint\DBFilter.dll
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\obj\Debug\net6.0-windows\DBFilter.pdb
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\obj\Debug\net6.0-windows\DBFilter.genruntimeconfig.cache
+D:\Projects\STEP IT\ADO.NET\Filter\DBFilter\obj\Debug\net6.0-windows\ref\DBFilter.dll
